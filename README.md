@@ -40,8 +40,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yuneast&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+[![yuneast's github stats](https://github-readme-stats.vercel.app/api?username=yuneast)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ###
