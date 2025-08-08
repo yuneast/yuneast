@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
   <a href="https://yundongjun.newsoft.kr">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=About.me&label=&color=00A98F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=About.me&label=&color=00A98F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume logo"  />
   </a>
 </div>
 
