@@ -1,6 +1,6 @@
 <div align="left">
 
-[![Click!](https://img.shields.io/badge/-Resume-FF6B6B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://yuneast.github.io)
+[![Click!](https://img.shields.io/badge/-Click!-FF6B6B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://yuneast.github.io)
 
 </div>
 
